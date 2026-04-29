@@ -80,6 +80,7 @@ export default function NovoSegredoScreen() {
   if (isCameraOpen) {
     return (
       <View style={styles.container}>
+        {/* TODO: Substituir esta View pelo componente <CameraView> */}
         <CameraView ref={cameraRef} style={{ flex: 1 }} />
 
         <View style={styles.cameraOverlay}>
