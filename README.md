@@ -1,3 +1,10 @@
+Removi o camera.tsx que era pra teste e incorporei as alterações no index, e adicionei para ele abrir uma tela pra mostrar as informações ao inves de mostrar direto no mapa, pois ele não carregava os dados, só ficava uma seta branca apontando pro nada, tentei usar 2 IAs pra corrigir esse bug mas nãop consegui.
+
+
+<img width="738" height="1600" alt="WhatsApp Image 2026-04-29 at 16 50 00" src="https://github.com/user-attachments/assets/603ff597-be7d-4e7b-842b-b780d9c7e8d5" />
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Kjw0hoXJ)
 # Exercício Prático: Mapa e Câmera
 
 Neste exercício, vamos construir o **GeoVault**, um diário georreferenciado offline. O objetivo da aplicação é permitir que o usuário guarde "segredos" (um texto e uma foto) atrelados exatamente ao local no mundo onde ele estava naquele momento, exibindo tudo em um mapa interativo.
